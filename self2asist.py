@@ -6,15 +6,15 @@ from datetime import datetime
 import time,random,sys,re,os,json,subprocess,codecs,threading,glob
 
 acil = PRANKBOTS.LINE() 
-acil.login(token="token akun utama/selfbot")
+acil.login(token="ExmEKHrOyzZfGs0wwo5b.zynIzbunSCvNudjdzkF7oW.nJTG2jaZzAdY/5C2tzq18nbhSJO6a/ZnWGVMSdbTN9k=")
 acil.loginResult()
 
 pb1 = PRANKBOTS.LINE() 
-pb1.login(token="token asist 1")
+pb1.login(token="ExmSVmnpVOMLf0eNlEO3.z+0IpsHolIaEJN/TJzKjSW.OZ/Rhxm8zTu3GQ2VlxhWqI6gnLAIzi3TJ4yWcOVj6Ng=")
 pb1.loginResult()
 
 pb2 = PRANKBOTS.LINE() 
-pb2.login(token="token asist 2")
+pb2.login(token="ExTt47WgvTAOlOCSrx53.gmd1StbeU8EiWP3nnwXFqW.hZsyRvC5BmMxJcGOXmldm021duEF9NacovMIKC+pssM=")
 pb2.loginResult()
 
 
